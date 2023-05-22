@@ -1,0 +1,29 @@
+.tabs-animated {
+    overflow: hidden;
+  }
+  
+  .tab-pane {
+    height: 250px;
+    width: 100%;
+  }
+  
+  #tab1 {
+    background: #dddddd;
+  }
+  
+  #tab2 {
+    background: #cccccc;
+  }
+  
+  #tab3 {
+    background: #bbbbbb;
+  }
+  
+  #tab4 {
+    background: #aaaaaa;
+  }
+  .tab-content {
+    overflow-x: hidden;
+    transition: transform 0.3s ease;
+  }
+  
